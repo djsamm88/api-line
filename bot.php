@@ -1,6 +1,6 @@
 <?php
 /*
-copyright @ medantechno.com
+copyrightf @ medantechno.com
 2017
 
 */
